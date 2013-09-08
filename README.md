@@ -3,8 +3,11 @@ weatherMap
 
 Shows weather forecast from FMI on Leaflet map
 
-https://ilmatieteenlaitos.fi/avoin-data
+[Demo](http://www.cs.helsinki.fi/u/juusoleh/weatherMap/)
 
-http://leafletjs.com/
-https://github.com/fmidev/metolib
-http://momentjs.com/
+
+https://ilmatieteenlaitos.fi/avoin-data 
+
+[Leaflet](http://leafletjs.com/)
+[MetOLib](https://github.com/fmidev/metolib)
+[MomentJS](http://momentjs.com/)
