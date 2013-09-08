@@ -1,7 +1,7 @@
 weatherMap
 ==========
 
-Shows weather forecast from FMI on Leaflet map
+Shows weather forecast for next 24 hours from FMI on Leaflet map
 
 [Demo](http://www.cs.helsinki.fi/u/juusoleh/weatherMap/)
 
