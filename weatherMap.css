@@ -1,0 +1,81 @@
+#map {
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  z-index: 0;
+  top: 0;
+}
+
+#content {
+  position: absolute;
+  z-index: 10;
+  top: 0;
+}
+
+#title {
+  position: relative;
+  left: 10em;
+}
+
+.tempLabel {
+  font-size: 2em;
+  font-weight: bold;
+  top: -0.75em !important;
+  width: 4em !important;
+}
+
+.tempLabel span {
+  display: inline-block;
+}
+
+#weatherSymbol {
+  display: inline-block;
+}
+
+#sliderdiv {
+  position: fixed;
+  bottom: 0;
+  background: #8C8C8C;
+  height: 4em;
+}
+
+#sliderArea {
+  left: 4em;
+  position: relative;
+  width: 100%;
+}
+
+#slider {
+  position: relative;
+  min-width: 30em;
+}
+
+#weatherBox {
+  display: none;
+  background: none repeat scroll 0 0 rgba(255, 255, 255, 0.5);
+  border-radius: 12px 12px 12px 12px;
+  height: 15em;
+  padding: 1em;
+  position: fixed;
+  right: 4em;
+  top: 10em;
+  width: 27em;
+}
+
+#citySymbol {
+  height: 8em;
+  display: inline-block;
+}
+
+#weatherBox span {
+  display: inline-block;
+  font-size: 3em;
+  font-weight: bold;
+}
+
+#cityWind {
+  display: inline-block;
+  font-size: 1.75em;
+  margin-left: 2em;
+  position: relative;
+}
